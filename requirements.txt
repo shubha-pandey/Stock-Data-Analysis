@@ -1,0 +1,7 @@
+yfinance
+matplotlib
+pandas
+json
+requests
+bs4
+plotly
